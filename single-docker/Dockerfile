@@ -1,4 +1,4 @@
-FROM ubuntu
+FROM stackbrew/ubuntu:13.10
 
 MAINTAINER ahunnargikar@ebay.com
 
